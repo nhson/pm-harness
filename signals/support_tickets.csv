@@ -1,0 +1,31 @@
+ticket_id,plan,area,summary
+T-001,Starter,reminders,Client says reminder emails went to spam
+T-002,Team,export,Xero import fails on tax code mismatch after CSV export
+T-003,Team,time,Request: import hours from time tracking tool
+T-004,Business,integration,"Need QuickBooks Online sync, currently using CSV"
+T-005,Team,reminders,Can I customise reminder wording per client?
+T-006,Business,einvoice,Do you support XRechnung / ZUGFeRD?
+T-007,Team,payments,"Payment link shows SEPA only, client wanted card"
+T-008,Starter,billing,"Considering cancelling, PayFlow invoicing is free"
+T-009,Team,approvals,Request: draft and approve flow for invoices
+T-010,Business,entities,Switching between two entities is painful
+T-011,Team,reminders,Reminder sent to client who already paid by transfer
+T-012,Team,export,DATEV export missing cost centre field
+T-013,Business,einvoice,Peppol support needed for Belgian client
+T-014,Team,dashboard,Want overview of overdue invoices by client
+T-015,Starter,pdf,Invoice PDF takes very long to generate
+T-016,Team,time,Retyping hours causes billing errors
+T-017,Business,approvals,Auditors require approval before sending invoices
+T-018,Team,integration,Xero two-way sync would save us hours weekly
+T-019,Team,reminders,"Reminders feel generic, clients ignore them"
+T-020,Starter,pdf,PDF preview times out on invoices with many lines
+T-021,Team,dashboard,Which clients pay late on average?
+T-022,Business,einvoice,"Public-sector client rejected our PDF invoice, needs XRechnung"
+T-023,Team,payments,"Card payment link got client to pay same day, want this default"
+T-024,Team,billing,Cancelling: our time tracker now does invoices
+T-025,Business,integration,QuickBooks sync blocking our rollout to second entity
+T-026,Team,reminders,Want to know if client opened invoice
+T-027,Starter,billing,Price too high for 5 invoices a month
+T-028,Team,time,Integration with time tracker please
+T-029,Business,entities,Need consolidated AR report across entities
+T-030,Team,export,Export takes manual cleanup every week
